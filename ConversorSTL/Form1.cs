@@ -69,10 +69,5 @@ namespace ConversorSTL
                 document.Save(saveFileDialog1.FileName, options);
             }
         }
-
-        private void btDescargar_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
